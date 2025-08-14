@@ -1,6 +1,7 @@
 "use client"
 
 import Card from '@/components/Card'
+import Cursor from '@/components/Cursor'
 import Example from '@/components/Example'
 import Scard from '@/components/Scard'
 import Text from '@/components/Text'
