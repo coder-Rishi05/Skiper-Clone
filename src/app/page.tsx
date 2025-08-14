@@ -2,6 +2,7 @@
 
 import Card from '@/components/Card'
 import Example from '@/components/Example'
+import Scard from '@/components/Scard'
 import Text from '@/components/Text'
 import ShareButton from '@/components/ui/share-button'
 import FlipLink from '@/components/ui/text-effect-flipper'
