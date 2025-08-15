@@ -5,8 +5,10 @@ import Cursor from '@/components/Cursor'
 import Example from '@/components/Example'
 import Scard from '@/components/Scard'
 import Text from '@/components/Text'
+import Themes from '@/components/Themes'
 import ShareButton from '@/components/ui/share-button'
 import FlipLink from '@/components/ui/text-effect-flipper'
+import ThemeToggleButton from '@/components/ui/theme-toggle-button'
 
 import WrapButton from '@/components/ui/wrap-button'
 import { ArrowBigDownDash, Banana, Globe, Linkedin, LucideLinkedin, Twitch } from 'lucide-react'
@@ -15,7 +17,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      
+     
     </div>
    
   )
